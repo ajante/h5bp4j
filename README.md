@@ -24,10 +24,11 @@ Layout
 Template layout is based on horizontal header (with topmenu), content area (with breadcrumbs, left, main and right columns), bottom and footer, and is using `<div id="header">` rather than `<header>` tags.
 
 For compatibility with the default Joomla template (Beez) modules named "position-xx" are included, e.g.:
-    <div id="left">
-        <jdoc:include type="modules" name="left" style="xhtml"/>
-        <jdoc:include type="modules" name="position-4" style="xhtml"/>
-        <jdoc:include type="modules" name="position-7" style="xhtml"/>
-        <jdoc:include type="modules" name="position-5" style="xhtml"/>
-    </div>
+`<div id="left">
+	<jdoc:include type="modules" name="left" style="xhtml"/>
+	<jdoc:include type="modules" name="position-4" style="xhtml"/>
+	<jdoc:include type="modules" name="position-7" style="xhtml"/>
+	<jdoc:include type="modules" name="position-5" style="xhtml"/>
+</div>`
 
+Enjoy.
