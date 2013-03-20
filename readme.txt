@@ -2,6 +2,8 @@ H5BP4J
 ======
 H5BP4J is a basic Joomla responsive template, based on excellent [HTML5 Boilerplate 3.0](http://html5boilerplate.com), and should be treated as a starting point for someone who knows CSS, HTML and a little bit of PHP and wants to create his own template.
 
+It was written for Joomla! 2.5. Now Joomla! 3.0 comes with own responsive template.
+
 Features
 --------
 * media queries in template.css for responsive design
@@ -17,7 +19,7 @@ Features
 * error.php for styling error messages
 * html/modules.php for custom module titles
 
-More information about the parameters: [H5BP4J description]  (http://www.bestjoomlahosting.com/extensions/32-h5bp4j-joomla-responsive-template-based-on-html5-boilerplate)
+More information about the parameters: [H5BP4J description]  (http://kgretk.com/_h5bp4j_.php)
 
 Layout
 ------
